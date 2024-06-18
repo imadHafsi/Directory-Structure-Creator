@@ -29,11 +29,11 @@ This repository contains a shell script that reads a text file line by line, rem
 
 ## Example
 
-Given a text file `file.txt` with the following content:
+Given a text file `file.txt` with the following content:  
 
-parent1 subdir1 subdir@2
-parent2 subdir#3 subdir$4
-parent3 subdir%5
+parent1 subdir1 subdir@2  
+parent2 subdir#3 subdir$4  
+parent3 subdir%5  
 
 The script will create the following directory structure:
 
