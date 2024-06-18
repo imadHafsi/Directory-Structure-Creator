@@ -38,13 +38,13 @@ parent3 subdir%5
 The script will create the following directory structure:
 
 parent1/  
-  subdir1/  
-  subdir_2/  
+    subdir1/  
+    subdir_2/  
 parent2/  
-  subdir_3/  
-  subdir_4/  
+    subdir_3/  
+    subdir_4/  
 parent3/  
-  subdir_5/  
+    subdir_5/  
 
 ## Contributing
 
