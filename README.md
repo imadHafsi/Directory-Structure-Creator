@@ -37,7 +37,7 @@ parent3 subdir%5
 
 The script will create the following directory structure:
 
-<b>parent1/<b/>  
+parent1/  
     subdir1/  
     subdir_2/  
 parent2/  
